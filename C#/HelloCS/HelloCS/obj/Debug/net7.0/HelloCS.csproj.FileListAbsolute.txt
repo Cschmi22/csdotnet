@@ -1,0 +1,14 @@
+C:\Users\Caleb Schmidt\Desktop\C#\HelloCS\HelloCS\bin\Debug\net7.0\HelloCS.exe
+C:\Users\Caleb Schmidt\Desktop\C#\HelloCS\HelloCS\bin\Debug\net7.0\HelloCS.deps.json
+C:\Users\Caleb Schmidt\Desktop\C#\HelloCS\HelloCS\bin\Debug\net7.0\HelloCS.runtimeconfig.json
+C:\Users\Caleb Schmidt\Desktop\C#\HelloCS\HelloCS\bin\Debug\net7.0\HelloCS.dll
+C:\Users\Caleb Schmidt\Desktop\C#\HelloCS\HelloCS\bin\Debug\net7.0\HelloCS.pdb
+C:\Users\Caleb Schmidt\Desktop\C#\HelloCS\HelloCS\obj\Debug\net7.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caleb Schmidt\Desktop\C#\HelloCS\HelloCS\obj\Debug\net7.0\HelloCS.AssemblyInfoInputs.cache
+C:\Users\Caleb Schmidt\Desktop\C#\HelloCS\HelloCS\obj\Debug\net7.0\HelloCS.AssemblyInfo.cs
+C:\Users\Caleb Schmidt\Desktop\C#\HelloCS\HelloCS\obj\Debug\net7.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\Caleb Schmidt\Desktop\C#\HelloCS\HelloCS\obj\Debug\net7.0\HelloCS.dll
+C:\Users\Caleb Schmidt\Desktop\C#\HelloCS\HelloCS\obj\Debug\net7.0\refint\HelloCS.dll
+C:\Users\Caleb Schmidt\Desktop\C#\HelloCS\HelloCS\obj\Debug\net7.0\HelloCS.pdb
+C:\Users\Caleb Schmidt\Desktop\C#\HelloCS\HelloCS\obj\Debug\net7.0\HelloCS.genruntimeconfig.cache
+C:\Users\Caleb Schmidt\Desktop\C#\HelloCS\HelloCS\obj\Debug\net7.0\ref\HelloCS.dll
